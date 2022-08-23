@@ -5,7 +5,7 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/itxcyberking/termux-shell.git
+git clone https://github.com/itxwaqasahmadzain/termux-shell.git
 cd termux-shell
 chmod +x *
 sh install.sh
@@ -16,10 +16,10 @@ exit
 apt update && apt install git -y && git clone https://github.com/itx.cyberking/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
 ```
 
-#### Credit : https://github.com/itxcyberking/
+#### Credit : https://github.com/itxwaqasahmadzain/
 
     
 ## [+] Find Me on :
 #### Instagram : @itx.waqasahmadzain
-#### Facebook : itx.waqasahmadzain
-#### Github : itxcyberking
+#### Facebook : @itx.waqasahmadzain
+#### Github : @itxwaqasahmadzain
