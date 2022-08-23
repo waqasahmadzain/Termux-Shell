@@ -8,11 +8,10 @@ clear
 echo -e "Created By \e[5mWAZ-CSE"
 echo "----------------------------" | lolcat
 echo -e "\e[1mInstagram :@ itx.waqasahmadzain"
-echo -e "\e[1mGithub: github.com/itx.cyberking/"
+echo -e "\e[1mGithub: github.com/itxwaqasahmadzain"
 echo -e "\e[1mIFacebook :@ itx.waqasahmadzain"
+echo -e "\e[1mOwner Cyber King Waqas Ahmad Zain"
 echo "----------------------------" | lolcat
-echo 
-"Cyber King Waqas Ahmad Zain"
 echo "
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
