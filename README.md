@@ -20,6 +20,6 @@ apt update && apt install git -y && git clone https://github.com/itx.cyberking/t
 
     
 ## [+] Find Me on :
-#### Instagram : @itx.waqasahmadzain
-#### Facebook : @itx.waqasahmadzain
+#### Instagram : @itx.waqasahmadzain.cyberking
+#### Facebook : @itx.waqasahmadzain.cyberking
 #### Github : @itxwaqasahmadzain
